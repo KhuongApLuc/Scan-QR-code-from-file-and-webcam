@@ -1,0 +1,1 @@
+# Scan-QR-code-from-file-and-webcam
